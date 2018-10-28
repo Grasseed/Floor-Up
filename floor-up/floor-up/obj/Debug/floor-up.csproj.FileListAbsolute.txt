@@ -1,0 +1,7 @@
+D:\gitdata\floor-up\floor-up\floor-up\bin\Debug\floor-up.exe.config
+D:\gitdata\floor-up\floor-up\floor-up\bin\Debug\floor-up.exe
+D:\gitdata\floor-up\floor-up\floor-up\bin\Debug\floor-up.pdb
+D:\gitdata\floor-up\floor-up\floor-up\obj\Debug\floor-up.csprojAssemblyReference.cache
+D:\gitdata\floor-up\floor-up\floor-up\obj\Debug\floor-up.csproj.CoreCompileInputs.cache
+D:\gitdata\floor-up\floor-up\floor-up\obj\Debug\floor-up.exe
+D:\gitdata\floor-up\floor-up\floor-up\obj\Debug\floor-up.pdb
